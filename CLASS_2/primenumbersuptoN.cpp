@@ -9,7 +9,8 @@ int main(int argc, char **argv)
     cin >> n;
     
     for (int i = 2; i <= n; i++)
-    {   bool iisprime=true;
+    {   
+        bool iisprime=true;
         int div=2;
         while (div * div <= i)
         {
@@ -20,7 +21,8 @@ int main(int argc, char **argv)
             }
             div++;
         }
-        if(iisprime==true){
+        if(iisprime==true)
+        {
             cout<<i<<"\t";
         }
     }
