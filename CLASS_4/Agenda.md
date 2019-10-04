@@ -1,2 +1,11 @@
 # Agenda
 The topic that I'll be starting with is "Bit Manipulation". The notes for the same have been already uploaded in the folder. Do give them a read before coming to the class. 
+
+## Class Date (Tentative)
+Friday - 11th October 2019 
+
+## Class Time
+10:10 AM - 11:50 AM (3rd and 4th Lecture)
+
+## Questions List
+Coming soon!
