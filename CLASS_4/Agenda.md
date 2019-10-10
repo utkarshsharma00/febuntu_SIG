@@ -13,7 +13,5 @@ Room No. 201
 ## Questions List
 1. Switch the bit ON.
 2. Switch the bit OFF.
-3. Set the bit ON.
-4. Set the bit OFF. 
-5. Print all bits.
-6. Count bits. 
+3. Print all bits.
+4. Count bits. 
