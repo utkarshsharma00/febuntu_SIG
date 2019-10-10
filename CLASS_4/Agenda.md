@@ -1,5 +1,5 @@
 # Agenda
-The topic that I'll be starting with is "Bit Manipulation". The notes for the same have been already uploaded in the folder. Do give them a read before coming to the class. 
+The topic that I'll be starting with is "Bit Manipulation". The notes for the same have been already uploaded in the folder. Do give them a read before coming to the class. I'll also teach "Debugging" during the class. 
 
 ## Class Date
 Friday - 11th October 2019 
@@ -15,3 +15,5 @@ Room No. 201
 2. Switch the bit OFF.
 3. Print all bits.
 4. Count bits. 
+
+
