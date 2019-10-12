@@ -1,4 +1,4 @@
-// You can also use the below logic. This logic has been put forward by Pushp of CSE B.
+// This logic has been put forward by Pushp of CSE B.
 
 #include <iostream>
 using namespace std;
